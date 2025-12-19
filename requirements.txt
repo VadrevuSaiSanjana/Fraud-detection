@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+scikit-learn         # only if original models need it
+sqlalchemy           # for DB mode (unchanged)
+psycopg2-binary      # or another driver if your DB differs
+python-multipart     # FastAPI file uploads
+xgboost
+lightgbm
+imbalanced-learn
+tensorflow
+shap
+matplotlib
+keras
